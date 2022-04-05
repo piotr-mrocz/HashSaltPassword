@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5W5XL4vs4QSBMBbXTNK6Xw/ux+SvnvkxS88Q9QuLnoENTwmlSav+kLwmeCxW+22BqU0MdLvkxFSlEMzBaIKwJA==",
+  "success": true,
+  "projectFilePath": "D:\\Nauka\\Repos\\HashSaltPassword\\HashSaltPassword\\HashSaltPassword\\HashSaltPassword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrocz\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
